@@ -23,8 +23,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SRSDK",
-            url: "https://artifacts.mdp.sportradar.com/apple/mobile-sdk-swift/42946a27/release/SRSDK_3.9.0.xcframework.zip",
-            checksum: "7d522972722bf775a7a8ca1d10c4b1a359638994dd3ead5b9889ad9735c6ba12"
+            url: "https://artifacts.mdp.sportradar.com/apple/mobile-sdk-swift/c26a5bf0/release/SRSDK_3.9.1.xcframework.zip",
+            checksum: "afb5ca4099ff0b3574e118a6f22f118a2106007dfa8f2173015f2db9b4fa6bc3"
         ),
         .target(
             name: "SRSDKTarget",
